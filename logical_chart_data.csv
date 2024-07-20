@@ -1,0 +1,101 @@
+Query,Attributes,Chart Type,Description,Created By,Created Date,Combined
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_5,2023-12-15,"show sales trend over the year date, sales"
+distribution of income levels,income,pie,This chart shows distribution of income levels with attributes income,User_40,2023-08-06,distribution of income levels income
+expenses in different categories,"category, expenses",bar,"This chart shows expenses in different categories with attributes category, expenses",User_34,2023-12-19,"expenses in different categories category, expenses"
+user activity over time,"date, activity level",line,"This chart shows user activity over time with attributes date, activity level",User_9,2023-04-03,"user activity over time date, activity level"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_37,2023-07-18,"growth rate over months date, growth rate"
+user activity over time,"date, activity level",line,"This chart shows user activity over time with attributes date, activity level",User_23,2023-02-04,"user activity over time date, activity level"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_8,2023-12-20,customer satisfaction levels satisfaction level
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_12,2023-07-04,"temperature trends over the year month, temperature"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_64,2023-06-19,"monthly revenue growth date, revenue"
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_87,2023-04-12,"temperature trends over the year month, temperature"
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_2,2023-08-16,"show sales trend over the year date, sales"
+sales performance by salespeople,"salesperson, sales",bar,"This chart shows sales performance by salespeople with attributes salesperson, sales",User_25,2023-01-12,"sales performance by salespeople salesperson, sales"
+distribution of age groups,age,pie,This chart shows distribution of age groups with attributes age,User_69,2023-01-20,distribution of age groups age
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_47,2023-08-13,"show sales trend over the year date, sales"
+age distribution among customers,age,pie,This chart shows age distribution among customers with attributes age,User_96,2023-10-06,age distribution among customers age
+monthly expense breakdown,"month, expenses",bar,"This chart shows monthly expense breakdown with attributes month, expenses",User_34,2023-09-04,"monthly expense breakdown month, expenses"
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_87,2023-05-21,"temperature trends over the year month, temperature"
+user activity over time,"date, activity level",line,"This chart shows user activity over time with attributes date, activity level",User_69,2023-03-24,"user activity over time date, activity level"
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_14,2023-03-15,"temperature trends over the year month, temperature"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_54,2023-07-09,"growth rate over months date, growth rate"
+average session duration over months,"month, session duration",line,"This chart shows average session duration over months with attributes month, session duration",User_87,2023-01-14,"average session duration over months month, session duration"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_84,2023-01-22,"monthly revenue growth date, revenue"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_80,2023-04-13,"growth rate over months date, growth rate"
+distribution of age groups,age,pie,This chart shows distribution of age groups with attributes age,User_94,2023-09-17,distribution of age groups age
+average daily temperatures,"date, temperature",line,"This chart shows average daily temperatures with attributes date, temperature",User_8,2023-11-04,"average daily temperatures date, temperature"
+sales performance by salespeople,"salesperson, sales",bar,"This chart shows sales performance by salespeople with attributes salesperson, sales",User_69,2023-02-13,"sales performance by salespeople salesperson, sales"
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_4,2023-02-28,"show sales trend over the year date, sales"
+quarterly profit comparison,"quarter, profit",bar,"This chart shows quarterly profit comparison with attributes quarter, profit",User_81,2023-07-18,"quarterly profit comparison quarter, profit"
+number of visitors per day,"date, visitors",line,"This chart shows number of visitors per day with attributes date, visitors",User_39,2023-03-11,"number of visitors per day date, visitors"
+number of visitors per day,"date, visitors",line,"This chart shows number of visitors per day with attributes date, visitors",User_41,2023-08-07,"number of visitors per day date, visitors"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_42,2023-09-19,"monthly revenue growth date, revenue"
+number of visitors per day,"date, visitors",line,"This chart shows number of visitors per day with attributes date, visitors",User_14,2023-11-27,"number of visitors per day date, visitors"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_13,2023-01-12,customer satisfaction levels satisfaction level
+website traffic over the months,"date, traffic",line,"This chart shows website traffic over the months with attributes date, traffic",User_46,2023-11-13,"website traffic over the months date, traffic"
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_40,2023-11-28,"show sales trend over the year date, sales"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_60,2023-01-18,customer satisfaction levels satisfaction level
+user activity over time,"date, activity level",line,"This chart shows user activity over time with attributes date, activity level",User_65,2023-02-06,"user activity over time date, activity level"
+sales performance by salespeople,"salesperson, sales",bar,"This chart shows sales performance by salespeople with attributes salesperson, sales",User_14,2023-09-17,"sales performance by salespeople salesperson, sales"
+user activity over time,"date, activity level",line,"This chart shows user activity over time with attributes date, activity level",User_66,2023-06-18,"user activity over time date, activity level"
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_47,2023-08-27,"annual revenue comparison year, revenue"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_17,2023-12-17,customer satisfaction levels satisfaction level
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_77,2023-09-02,"annual revenue comparison year, revenue"
+compare product popularity,"product, sales",bar,"This chart shows compare product popularity with attributes product, sales",User_86,2023-05-16,"compare product popularity product, sales"
+sales distribution by product category,"category, sales",bar,"This chart shows sales distribution by product category with attributes category, sales",User_73,2023-09-02,"sales distribution by product category category, sales"
+age distribution among customers,age,pie,This chart shows age distribution among customers with attributes age,User_17,2023-07-16,age distribution among customers age
+average session duration over months,"month, session duration",line,"This chart shows average session duration over months with attributes month, session duration",User_23,2023-01-16,"average session duration over months month, session duration"
+quarterly profit comparison,"quarter, profit",bar,"This chart shows quarterly profit comparison with attributes quarter, profit",User_73,2023-08-10,"quarterly profit comparison quarter, profit"
+distribution of income levels,income,pie,This chart shows distribution of income levels with attributes income,User_17,2023-02-21,distribution of income levels income
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_71,2023-06-19,"annual revenue comparison year, revenue"
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_5,2023-08-14,"annual revenue comparison year, revenue"
+average daily temperatures,"date, temperature",line,"This chart shows average daily temperatures with attributes date, temperature",User_60,2023-06-05,"average daily temperatures date, temperature"
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_55,2023-07-14,"temperature trends over the year month, temperature"
+satisfaction levels across departments,"department, satisfaction",bar,"This chart shows satisfaction levels across departments with attributes department, satisfaction",User_10,2023-09-25,"satisfaction levels across departments department, satisfaction"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_73,2023-04-20,"monthly revenue growth date, revenue"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_6,2023-03-03,"monthly revenue growth date, revenue"
+quarterly profit comparison,"quarter, profit",bar,"This chart shows quarterly profit comparison with attributes quarter, profit",User_48,2023-06-24,"quarterly profit comparison quarter, profit"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_68,2023-05-23,"growth rate over months date, growth rate"
+show sales trend over the year,"date, sales",line,"This chart shows show sales trend over the year with attributes date, sales",User_36,2023-02-13,"show sales trend over the year date, sales"
+satisfaction levels across departments,"department, satisfaction",bar,"This chart shows satisfaction levels across departments with attributes department, satisfaction",User_11,2023-06-12,"satisfaction levels across departments department, satisfaction"
+compare product popularity,"product, sales",bar,"This chart shows compare product popularity with attributes product, sales",User_87,2023-01-28,"compare product popularity product, sales"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_92,2023-02-02,"growth rate over months date, growth rate"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_54,2023-10-16,customer satisfaction levels satisfaction level
+website traffic over the months,"date, traffic",line,"This chart shows website traffic over the months with attributes date, traffic",User_45,2023-04-03,"website traffic over the months date, traffic"
+market share comparison between brands,"brand, market share",pie,"This chart shows market share comparison between brands with attributes brand, market share",User_54,2023-09-09,"market share comparison between brands brand, market share"
+customer satisfaction levels,satisfaction level,bar,This chart shows customer satisfaction levels with attributes satisfaction level,User_24,2023-08-17,customer satisfaction levels satisfaction level
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_26,2023-03-11,"monthly revenue growth date, revenue"
+growth rate over months,"date, growth rate",line,"This chart shows growth rate over months with attributes date, growth rate",User_6,2023-07-10,"growth rate over months date, growth rate"
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_73,2023-04-18,"annual revenue comparison year, revenue"
+monthly expense breakdown,"month, expenses",bar,"This chart shows monthly expense breakdown with attributes month, expenses",User_83,2023-05-13,"monthly expense breakdown month, expenses"
+distribution of income levels,income,pie,This chart shows distribution of income levels with attributes income,User_19,2023-08-07,distribution of income levels income
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_25,2023-06-05,"annual revenue comparison year, revenue"
+age distribution among customers,age,pie,This chart shows age distribution among customers with attributes age,User_80,2023-06-21,age distribution among customers age
+sales performance by salespeople,"salesperson, sales",bar,"This chart shows sales performance by salespeople with attributes salesperson, sales",User_96,2023-07-14,"sales performance by salespeople salesperson, sales"
+average daily temperatures,"date, temperature",line,"This chart shows average daily temperatures with attributes date, temperature",User_53,2023-11-19,"average daily temperatures date, temperature"
+percentage of market share,market share,pie,This chart shows percentage of market share with attributes market share,User_49,2023-05-10,percentage of market share market share
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_91,2023-05-19,"annual revenue comparison year, revenue"
+monthly expense breakdown,"month, expenses",bar,"This chart shows monthly expense breakdown with attributes month, expenses",User_18,2023-11-10,"monthly expense breakdown month, expenses"
+compare product popularity,"product, sales",bar,"This chart shows compare product popularity with attributes product, sales",User_66,2023-05-16,"compare product popularity product, sales"
+breakdown of sales by region,"region, sales",bar,"This chart shows breakdown of sales by region with attributes region, sales",User_73,2023-05-05,"breakdown of sales by region region, sales"
+number of visitors per day,"date, visitors",line,"This chart shows number of visitors per day with attributes date, visitors",User_6,2023-06-23,"number of visitors per day date, visitors"
+monthly expense breakdown,"month, expenses",bar,"This chart shows monthly expense breakdown with attributes month, expenses",User_10,2023-01-11,"monthly expense breakdown month, expenses"
+average session duration over months,"month, session duration",line,"This chart shows average session duration over months with attributes month, session duration",User_53,2023-02-27,"average session duration over months month, session duration"
+distribution of income levels,income,pie,This chart shows distribution of income levels with attributes income,User_88,2023-05-25,distribution of income levels income
+sales distribution by product category,"category, sales",bar,"This chart shows sales distribution by product category with attributes category, sales",User_63,2023-06-25,"sales distribution by product category category, sales"
+average daily temperatures,"date, temperature",line,"This chart shows average daily temperatures with attributes date, temperature",User_34,2023-02-18,"average daily temperatures date, temperature"
+sales performance by salespeople,"salesperson, sales",bar,"This chart shows sales performance by salespeople with attributes salesperson, sales",User_48,2023-10-03,"sales performance by salespeople salesperson, sales"
+monthly expense breakdown,"month, expenses",bar,"This chart shows monthly expense breakdown with attributes month, expenses",User_54,2023-08-28,"monthly expense breakdown month, expenses"
+quarterly profit comparison,"quarter, profit",bar,"This chart shows quarterly profit comparison with attributes quarter, profit",User_100,2023-01-17,"quarterly profit comparison quarter, profit"
+percentage of market share,market share,pie,This chart shows percentage of market share with attributes market share,User_32,2023-08-17,percentage of market share market share
+annual revenue comparison,"year, revenue",bar,"This chart shows annual revenue comparison with attributes year, revenue",User_31,2023-03-24,"annual revenue comparison year, revenue"
+average session duration over months,"month, session duration",line,"This chart shows average session duration over months with attributes month, session duration",User_62,2023-02-20,"average session duration over months month, session duration"
+average daily temperatures,"date, temperature",line,"This chart shows average daily temperatures with attributes date, temperature",User_45,2023-02-06,"average daily temperatures date, temperature"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_85,2023-09-04,"monthly revenue growth date, revenue"
+percentage of market share,market share,pie,This chart shows percentage of market share with attributes market share,User_53,2023-09-06,percentage of market share market share
+satisfaction levels across departments,"department, satisfaction",bar,"This chart shows satisfaction levels across departments with attributes department, satisfaction",User_70,2023-07-09,"satisfaction levels across departments department, satisfaction"
+breakdown of sales by region,"region, sales",bar,"This chart shows breakdown of sales by region with attributes region, sales",User_78,2023-04-03,"breakdown of sales by region region, sales"
+percentage of market share,market share,pie,This chart shows percentage of market share with attributes market share,User_66,2023-04-10,percentage of market share market share
+satisfaction levels across departments,"department, satisfaction",bar,"This chart shows satisfaction levels across departments with attributes department, satisfaction",User_88,2023-01-10,"satisfaction levels across departments department, satisfaction"
+monthly revenue growth,"date, revenue",line,"This chart shows monthly revenue growth with attributes date, revenue",User_80,2023-01-10,"monthly revenue growth date, revenue"
+temperature trends over the year,"month, temperature",line,"This chart shows temperature trends over the year with attributes month, temperature",User_16,2023-08-07,"temperature trends over the year month, temperature"
